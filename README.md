@@ -4,8 +4,6 @@ Senior Security Engineer focused on mobile application protection and detection.
 
 I have 9+ years of experience across systems and network security, Android development, and mobile security engineering. My current work includes validating Android and iOS protections through releases, investigating runtime signals and regressions, and building reviewable security-detection workflows.
 
-Most of my recent work is in private company repositories and is not reflected by the contribution graph on this personal account.
-
 ## Public projects
 
 - [Android projects](https://github.com/Nikolai-CyberSec/Android-security-projects) — a collection of Android application and security work.
